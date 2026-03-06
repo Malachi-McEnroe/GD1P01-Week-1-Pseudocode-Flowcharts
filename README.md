@@ -48,6 +48,8 @@ ENDWHILE
 PRINT "Tea complete"
 ```
 
+<img src="https://github.com/Malachi-McEnroe/GD1P01-Week-1-Pseudocode-Flowcharts/blob/main/res/Question%201.drawio.png" alt="flowchart">
+
 ### Question 2
 
 ```
