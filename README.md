@@ -61,6 +61,8 @@ READ num2
 PRINT num1 * num2
 ```
 
+<img src="https://github.com/Malachi-McEnroe/GD1P01-Week-1-Pseudocode-Flowcharts/blob/main/res/Question%202.drawio.png" alt="flowchart">
+
 ### Question 3
 
 ```
@@ -78,6 +80,8 @@ ELSE
 ENDIF
 ```
 
+<img src="https://github.com/Malachi-McEnroe/GD1P01-Week-1-Pseudocode-Flowcharts/blob/main/res/Question%203.drawio.png" alt="flowchart">
+
 ### Question 4
 ```
 PRINT "Enter a number: "
@@ -89,6 +93,8 @@ ELSE
     PRINT num " is odd"
 ENDIF
 ```
+
+<img src="https://github.com/Malachi-McEnroe/GD1P01-Week-1-Pseudocode-Flowcharts/blob/main/res/Question%204.drawio.png" alt="flowchart">
 
 ### Question 5
 ```
@@ -102,6 +108,8 @@ ELSE
 ENDIF
 ```
 
+<img src="https://github.com/Malachi-McEnroe/GD1P01-Week-1-Pseudocode-Flowcharts/blob/main/res/Question%205.drawio.png" alt="flowchart">
+
 ### Question 6
 ```
 nums[3]
@@ -112,6 +120,9 @@ PRINT "Enter second number: "
 READ nums[1]
 PRINT "Enter third number: "
 READ nums[2]
+
+i = 0
+j = 1
 
 WHILE i < 2
     j = i + 1
@@ -126,6 +137,8 @@ ENDWHILE
 
 PRINT nums
 ```
+
+<img src="https://github.com/Malachi-McEnroe/GD1P01-Week-1-Pseudocode-Flowcharts/blob/main/res/Question%206.drawio.png" alt="flowchart">
 
 ### Question 7
 ```
